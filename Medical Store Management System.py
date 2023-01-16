@@ -1,4 +1,4 @@
-# source code for computer project
+# source code 
 #command used to conneect sql to python
 
 import sys
